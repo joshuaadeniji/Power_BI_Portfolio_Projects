@@ -1,1 +1,1 @@
-# Power_BI_Portfolio_Projects
+This repository contains projects I have completed using PowerBI Desktop
